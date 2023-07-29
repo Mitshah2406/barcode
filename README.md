@@ -1,6 +1,7 @@
 # barcode_exp
 
-A new Flutter project.
+Flutter project for scanning barcodes
+
 
 ## Getting Started
 
